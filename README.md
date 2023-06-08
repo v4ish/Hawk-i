@@ -2,6 +2,9 @@
 
 A Radar hack made for csgo with cpp
 
+### VAC SSTATUS: UNDETECTED
+(may lower your trust factor)
+
 ## Features
 
 - Discord Rich presence (Coming soon...)
