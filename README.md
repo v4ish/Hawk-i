@@ -28,13 +28,13 @@ There is no VAC Bypasser inbuilt, I highly recommend using a VAC Bypasser
 
 ### "I got VAC banned using Hawk-i!"
 
--The risk of getting VAC Ban using Hawk-i is very low, however not zero.
+- The risk of getting VAC Ban using Hawk-i is very low, however not zero.
 - VAC marked you for ban when you were NOT using Hawk-i, but the actual ban was delayed. VAC often delays bans by as much as 2 weeks.
 - You were not VAC banned, but rather banned by overwatch or untrusted.
 
 ### How not to get VAC BAN
 
-Use a VAC Bypasser
-Use a MD5 Hash changer
-Download the latest version of Hawk-i (It's updated every weak)
-Don't play using Hawk-i after a CSGO update (wait for the new release or create a issue)
+- Use a VAC Bypasser
+- Use a MD5 Hash changer
+- Download the latest version of Hawk-i (It's updated every weak)
+- Don't play using Hawk-i after a CSGO update (wait for the new release or create a issue)
