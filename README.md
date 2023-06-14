@@ -26,7 +26,7 @@ There is no VAC Bypasser inbuilt, I highly recommend using a VAC Bypasser
 
 ## FAQ
 
-[Discord](https://discord.gg/37uTqAhkms)
+[Discord Server](https://discord.gg/37uTqAhkms)
 
 #### "I got VAC banned using Hawk-i!"
 
