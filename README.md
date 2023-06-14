@@ -2,7 +2,7 @@
 
 A Radar hack made for csgo with cpp
 
-### VAC STATUS: DETECTED
+### VAC STATUS: USE AT YOUR OWN RISK
 (may lower your trust factor)
 
 ## Features
@@ -21,3 +21,16 @@ A Radar hack made for csgo with cpp
 ```
 
 [Virus Total Scan](https://www.virustotal.com/gui/file/e28b15aa5c96504f1070ef511bb18cae32f763c68217d518363b9fa3ec229d6a/detection)
+
+### "I got VAC banned using Hawk-i!"
+
+-The risk of getting VAC Ban using Hawk-i is very low, however not 0.
+- VAC marked you for ban when you were NOT using Hawk-i, but the actual ban was delayed. VAC often delays bans by as much as 2 weeks.
+- You were not VAC banned, but rather banned by overwatch or untrusted.
+
+### How not to get VAC BAN
+
+Use a VAC Bypasser
+Use a MD5 Hash changer
+Download the latest version of Hawk-i (It's updated every weak)
+Don't play using Hawk-i after a CSGO update (wait for the new release or create a issue)
