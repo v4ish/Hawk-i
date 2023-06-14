@@ -1,6 +1,7 @@
 # Hawk-i
 
 A Radar hack made for csgo with cpp
+There is no VAC Bypasser inbuilt, I highly recommend using a VAC Bypasser
 
 ### VAC STATUS: USE AT YOUR OWN RISK
 (may lower your trust factor)
@@ -22,9 +23,11 @@ A Radar hack made for csgo with cpp
 
 [Virus Total Scan](https://www.virustotal.com/gui/file/e28b15aa5c96504f1070ef511bb18cae32f763c68217d518363b9fa3ec229d6a/detection)
 
+## FAQ
+
 ### "I got VAC banned using Hawk-i!"
 
--The risk of getting VAC Ban using Hawk-i is very low, however not 0.
+-The risk of getting VAC Ban using Hawk-i is very low, however not zero.
 - VAC marked you for ban when you were NOT using Hawk-i, but the actual ban was delayed. VAC often delays bans by as much as 2 weeks.
 - You were not VAC banned, but rather banned by overwatch or untrusted.
 
