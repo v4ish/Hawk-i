@@ -1,6 +1,7 @@
 # Hawk-i
 
-A Radar hack made for csgo with cpp
+A Radar hack made for csgo with c++
+
 There is no VAC Bypasser inbuilt, I highly recommend using a VAC Bypasser
 
 ### VAC STATUS: USE AT YOUR OWN RISK
