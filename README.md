@@ -26,6 +26,8 @@ There is no VAC Bypasser inbuilt, I highly recommend using a VAC Bypasser
 
 ## FAQ
 
+[Discord](https://discord.gg/37uTqAhkms)
+
 #### "I got VAC banned using Hawk-i!"
 
 - The risk of getting VAC Ban using Hawk-i is very low, however not zero.
