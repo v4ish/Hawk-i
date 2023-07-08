@@ -39,5 +39,5 @@ There is no VAC Bypasser inbuilt, I highly recommend using a VAC Bypasser
 
 - Use a VAC Bypasser
 - Use a MD5 Hash changer
-- Download the latest version of Hawk-i (It's updated every weak)
+- Download the latest version of Hawk-i
 - Don't play using Hawk-i after a CSGO update (wait for the new release or create a issue)
