@@ -7,10 +7,6 @@ There is no VAC Bypasser inbuilt, I highly recommend using a VAC Bypasser
 ### VAC STATUS: USE AT YOUR OWN RISK
 (may lower your trust factor)
 
-## Features
-
-- Discord Rich presence (Coming soon...)
-
 ## Screenshots
 
 ![Logo](https://cdn.discordapp.com/attachments/926176591736889385/1116265352129683528/image.png)
